@@ -77,6 +77,10 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="Additionals Files\Install Service %28Run As Admin%29.bat" />
+    <None Include="Additionals Files\script_switch_monitor_main.bat" />
+    <None Include="Additionals Files\script_switch_monitor_tv.bat" />
+    <None Include="Additionals Files\Uninstall Service %28Run As Admin%29.bat" />
     <None Include="app.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
